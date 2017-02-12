@@ -10,15 +10,15 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}house-1.jpg" alt="">
+    <img src="{{ site.urlimg }}house-1.jpg" alt="west vancouver house">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}house-2.jpg" alt="">
+      <img src="{{ site.urlimg }}house-2.jpg" alt="west vancouver luxury house">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}house-3.jpg" alt="">
+      <img src="{{ site.urlimg }}house-3.jpg" alt="west vancouver luxury house">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -26,12 +26,12 @@ header:
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}house-4.jpg" alt="">
+    <img src="{{ site.urlimg }}house-4.jpg" alt="vancouver luxury house">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}house-5.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}house-6.jpg" alt="">
+      <img src="{{ site.urlimg }}house-5.jpg" alt="north vancouver luxury house">
+      <img class="t30" src="{{ site.urlimg }}house-6.jpg" alt="Richmond luxury house">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -39,15 +39,15 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}house-7.jpg" alt="">
+    <img src="{{ site.urlimg }}house-7.jpg" alt="vancouver luxury house">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}house-8.jpg" alt="">
+      <img src="{{ site.urlimg }}house-8.jpg" alt="Richmond luxury house">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}house-9.jpg" alt="">
+      <img src="{{ site.urlimg }}house-9.jpg" alt="vancouver luxury house">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->

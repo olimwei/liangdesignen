@@ -9,15 +9,15 @@ header:
 ---
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}commercial-1.jpg" alt="">
+    <img src="{{ site.urlimg }}commercial-1.jpg" alt="front desk">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}commercial-2.jpg" alt="">
+      <img src="{{ site.urlimg }}commercial-2.jpg" alt="office">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}commercial-3.jpg" alt="">
+      <img src="{{ site.urlimg }}commercial-3.jpg" alt="restaurant">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
@@ -25,15 +25,15 @@ header:
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}commercial-4.jpg" alt="">
+    <img src="{{ site.urlimg }}commercial-4.jpg" alt="meeting room">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}commercial-5.jpg" alt="">
+      <img src="{{ site.urlimg }}commercial-5.jpg" alt="restaurant">
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}commercial-6.jpg" alt="">
+      <img src="{{ site.urlimg }}commercial-6.jpg" alt="shopping mall">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
