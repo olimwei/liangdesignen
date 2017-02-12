@@ -1,0 +1,39 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Projects
+  url: ""
+  side: left
+  dropdown:
+  - title: "House Design"
+    url: "/house-design/"
+  - title: "Interior Design"
+    url: "/interior-design/"
+  - title: "Commercial Design"
+    url: "/commercial-design/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: left
+
+- title: "Call：778-300-1388"
+  url:
+  side: right
+
+# - title: "搜索"
+#   url: "/search/"
+#   side: right
+
+- title: "中文"
+  url: http://cn.liangdesign.com/
+  side: right
+
+# - title: Documentation
+#   url: "/documentation/"
+#   side: left
+#   dropdown:
+#   - title: "Changelog"
+#     url: "/changelog/"
+#   - title: "Roadmap"
+#     url: "/roadmap/"

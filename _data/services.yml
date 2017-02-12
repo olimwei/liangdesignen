@@ -1,0 +1,21 @@
+- menu_name: "Services"
+
+- name: "Custom Home design"
+  url: "/house-design/"
+  title: ""
+
+- name: "Interior Design"
+  url: "/interior-design/"
+  title: ""
+
+- name: "Commrecial Space Planning"
+  url: "/commercial-design/"
+  title: ""
+
+- name: "Permits Application"
+  url: ""
+  title: ""
+
+- name: "Construction Administrstion"
+  url: ""
+  title: ""
