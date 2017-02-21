@@ -14,7 +14,7 @@ permalink: "/contact/"
     <h3>Liang Design Studio</h3><br>
     210-1669 w 3rd Ave<br>
     Vancouver BC V6J1K1<br>
-    Tel: 778-300-1388 <br>
+    Tel: 604-283-6568 <br>
     www.liangdesign.com</p>
 </div><!-- /.row -->
 
