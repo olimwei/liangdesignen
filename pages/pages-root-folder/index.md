@@ -35,7 +35,7 @@ widget3:
 callforaction:
   url: http://liangdesign.com
 #  url: https://tinyletter.com/feeling-responsive
-  text: ---------- if any inquiries, please call：778-300-1388 ----------
+  text: ---------- if any inquiries, please call：778-300-2111 ----------
   style: alert
 permalink: /
 #
