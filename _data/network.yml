@@ -5,17 +5,14 @@
   class: ""
   title: "Archiz Design Studio"
 
-- name: "Liang Photo"
-  url: "http://liangphoto.com/"
-  class: ""
-  title: "Liang Photo - ordinary daily shooting"
+# - name: "Liang Photo"
+#   url: "http://liangphoto.com/"
+#   class: ""
+#   title: "Liang Photo - ordinary daily shooting"
 
 # - name: "MKZG"
 #   url: "http://mkzg.com/"
 #   class: "rss-link"
 #   title: "olim的个人网站"
 
-- name: "Vancouver Home"
-  url: "http://vancouverhome.info/"
-  class: "sitemap-link"
-  title: "Information of Vancouver Home"
+
