@@ -17,7 +17,7 @@ slogan: 'custom design'
 description: '»Liang Design Studio - with solid architectural backgroud, we provide design services for single family house, townhouse, laneway house, commercial space and also interior around Vancouver area.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>website was built and maintained by <a href="http://mkzg.com/">olim</a>.'
+credits: '<p>website was built and maintained by <a href="http://olim.ca/">olim</a>.'
 
 # Main author of the website
 # See > authors.yml
